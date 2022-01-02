@@ -3,6 +3,6 @@ module.exports = {
   reactStrictMode: true,
   images: {
     domains: ['pbs.twimg.com'],
-    formats: ['image/avif', 'image/webp'],
+    // formats: ['image/avif', 'image/webp'],
   },
 }
